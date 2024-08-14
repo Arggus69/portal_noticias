@@ -1,7 +1,4 @@
 <?php
-
-use PSpell\Config;
-
     require_once 'Conexao.php';
 
     class NoticiaDAO {
